@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shahneeel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="[https://rm.up.railway.app/](https://b1694534.smushcdn.com/1694534/wp-content/uploads/2021/06/variable.jpeg?lossy=1&strip=1&webp=1)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shahneeel&icon=0&color=0)](https://visitcount.itsvg.in)
